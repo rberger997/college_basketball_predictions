@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548774088291.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD95ABC5",
+    "lastKnownWriteTime" : 1548774366,
+    "last_content_update" : 1548774366295,
+    "path" : "~/Desktop/data_projects/college_basketball_predictions/src/daily_model_predictions.R",
+    "project_path" : "src/daily_model_predictions.R",
+    "properties" : {
+        "cursorPosition" : "72,23",
+        "scrollLine" : "63",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
