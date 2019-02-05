@@ -1,0 +1,20 @@
+set.seed(2529)
+D.ex <- rbinom(200, size = 1, prob = .5)
+M1 <- rnorm(200, mean = D.ex, sd = .65)
+M2 <- rnorm(200, mean = D.ex, sd = 1.5)
+
+test <- data.frame(D = D.ex, D.str = c("Healthy", "Ill")[D.ex + 1], 
+                   M1 = M1, M2 = M2, stringsAsFactors = FALSE)
+
+install.packages("plotROC")
+library(plotROC)
+basicplot <- ggplot(test, aes(d = D, m = M1)) + geom_roc()
+
+season1$Home_w <- season1$Home_w - 1 
+season1$Home_w <- as.factor(season1$Home_w)
+
+basicplot <- ggplot(season1, aes(d = Home_w, m = pred_Home_w)) + geom_roc()
+basicplot
+
+str(season1)
+head(season1$Home_w)

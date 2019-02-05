@@ -3803,329 +3803,328 @@
 "Texas Southern","Mississippi Valley State",65,62,0,3,2019-01-28
 "Baylor","Oklahoma",77,47,0,30,2019-01-28
 "TCU","Texas Tech",65,84,1,-19,2019-01-28
-"Tennessee","South Carolina",NA,NA,NA,NA,2019-01-29
-"Georgia","Arkansas",NA,NA,NA,NA,2019-01-29
-"Ball State","Buffalo",NA,NA,NA,NA,2019-01-29
-"Eastern Michigan","Central Michigan",NA,NA,NA,NA,2019-01-29
-"UNC","Georgia Tech",NA,NA,NA,NA,2019-01-29
-"Lipscomb","Liberty",NA,NA,NA,NA,2019-01-29
-"Northwestern","Maryland",NA,NA,NA,NA,2019-01-29
-"Toledo","Miami (OH)",NA,NA,NA,NA,2019-01-29
-"Virginia","NC State",NA,NA,NA,NA,2019-01-29
-"Ohio","Northern Illinois",NA,NA,NA,NA,2019-01-29
-"Kansas","Texas",NA,NA,NA,NA,2019-01-29
-"Kent State","Western Michigan",NA,NA,NA,NA,2019-01-29
-"Mississippi State","Alabama",NA,NA,NA,NA,2019-01-29
-"St. Joseph's","Dayton",NA,NA,NA,NA,2019-01-29
-"Wisconsin","Nebraska",NA,NA,NA,NA,2019-01-29
-"Missouri State","Valparaiso",NA,NA,NA,NA,2019-01-29
-"Pitt","Clemson",NA,NA,NA,NA,2019-01-29
-"Boise State","Colorado State",NA,NA,NA,NA,2019-01-29
-"Ohio State","Michigan",NA,NA,NA,NA,2019-01-29
-"Kentucky","Vanderbilt",NA,NA,NA,NA,2019-01-29
-"UC-Santa Cruz","Cal State Bakersfield",NA,NA,NA,NA,2019-01-29
-"Nevada","UNLV",NA,NA,NA,NA,2019-01-29
-"Marquette","Butler",NA,NA,NA,NA,2019-01-30
-"Ole Miss","Florida",NA,NA,NA,NA,2019-01-30
-"Texas A&M-Corpus Christi","Abilene Christian",NA,NA,NA,NA,2019-01-30
-"Holy Cross","Boston University",NA,NA,NA,NA,2019-01-30
-"Navy","Bucknell",NA,NA,NA,NA,2019-01-30
-"Presbyterian","Charleston Southern",NA,NA,NA,NA,2019-01-30
-"Army","Colgate",NA,NA,NA,NA,2019-01-30
-"Rhode Island","Duquesne",NA,NA,NA,NA,2019-01-30
-"Bradley","Evansville",NA,NA,NA,NA,2019-01-30
-"High Point","Gardner-Webb",NA,NA,NA,NA,2019-01-30
-"Fordham","George Washington",NA,NA,NA,NA,2019-01-30
-"Binghamton","Hartford",NA,NA,NA,NA,2019-01-30
-"West Virginia","Iowa State",NA,NA,NA,NA,2019-01-30
-"South Dakota","Purdue-Fort Wayne",NA,NA,NA,NA,2019-01-30
-"Stetson","Jacksonville",NA,NA,NA,NA,2019-01-30
-"North Florida","Kennesaw State",NA,NA,NA,NA,2019-01-30
-"UMass","La Salle",NA,NA,NA,NA,2019-01-30
-"Lehigh","Lafayette",NA,NA,NA,NA,2019-01-30
-"Hampton","Longwood",NA,NA,NA,NA,2019-01-30
-"Northern Iowa","Loyola (IL)",NA,NA,NA,NA,2019-01-30
-"American","Loyola (MD)",NA,NA,NA,NA,2019-01-30
-"Stony Brook","UMBC",NA,NA,NA,NA,2019-01-30
-"Maine","UMass-Lowell",NA,NA,NA,NA,2019-01-30
-"Virginia Tech","Miami (FL)",NA,NA,NA,NA,2019-01-30
-"Alabama-Birmingham","Middle Tennessee",NA,NA,NA,NA,2019-01-30
-"Albany (NY)","New Hampshire",NA,NA,NA,NA,2019-01-30
-"Canisius","Niagara",NA,NA,NA,NA,2019-01-30
-"Florida Gulf Coast","NJIT",NA,NA,NA,NA,2019-01-30
-"USC Upstate","UNC Asheville",NA,NA,NA,NA,2019-01-30
-"Campbell","Radford",NA,NA,NA,NA,2019-01-30
-"Indiana","Rutgers",NA,NA,NA,NA,2019-01-30
-"Richmond","Saint Louis",NA,NA,NA,NA,2019-01-30
-"Providence","Seton Hall",NA,NA,NA,NA,2019-01-30
-"Central Arkansas","Stephen F. Austin",NA,NA,NA,NA,2019-01-30
-"Missouri","Auburn",NA,NA,NA,NA,2019-01-30
-"Syracuse","Boston College",NA,NA,NA,NA,2019-01-30
-"St. John's (NY)","Creighton",NA,NA,NA,NA,2019-01-30
-"Villanova","DePaul",NA,NA,NA,NA,2019-01-30
-"Illinois State","Drake",NA,NA,NA,NA,2019-01-30
-"Houston Baptist","Incarnate Word",NA,NA,NA,NA,2019-01-30
-"Northwestern State","New Orleans",NA,NA,NA,NA,2019-01-30
-"Lamar","Nicholls State",NA,NA,NA,NA,2019-01-30
-"Sam Houston State","Southeastern Louisiana",NA,NA,NA,NA,2019-01-30
-"Memphis","Tulsa",NA,NA,NA,NA,2019-01-30
-"Louisville","Wake Forest",NA,NA,NA,NA,2019-01-30
-"Illinois","Minnesota",NA,NA,NA,NA,2019-01-30
-"Indiana State","Southern Illinois",NA,NA,NA,NA,2019-01-30
-"LSU","Texas A&M",NA,NA,NA,NA,2019-01-30
-"San Jose State","Utah State",NA,NA,NA,NA,2019-01-30
-"California Baptist","Utah Valley",NA,NA,NA,NA,2019-01-30
-"SMU","Wichita State",NA,NA,NA,NA,2019-01-30
-"Fresno State","Wyoming",NA,NA,NA,NA,2019-01-30
-"Cal State Northridge","Cal State Fullerton",NA,NA,NA,NA,2019-01-30
-"Air Force","San Diego State",NA,NA,NA,NA,2019-01-30
-"UCLA","Washington State",NA,NA,NA,NA,2019-01-30
-"USC","Washington",NA,NA,NA,NA,2019-01-30
-"LIU-Brooklyn","Fairleigh Dickinson",NA,NA,NA,NA,2019-01-31
-"Louisiana","Appalachian State",NA,NA,NA,NA,2019-01-31
-"St. Francis (NY)","Central Connecticut",NA,NA,NA,NA,2019-01-31
-"Rice","Charlotte",NA,NA,NA,NA,2019-01-31
-"Furman","Citadel",NA,NA,NA,NA,2019-01-31
-"Louisiana-Monroe","Coastal Carolina",NA,NA,NA,NA,2019-01-31
-"James Madison","College of Charleston",NA,NA,NA,NA,2019-01-31
-"Cleveland State","Detroit",NA,NA,NA,NA,2019-01-31
-"Tulane","East Carolina",NA,NA,NA,NA,2019-01-31
-"Delaware","Elon",NA,NA,NA,NA,2019-01-31
-"Louisiana Tech","Florida Atlantic",NA,NA,NA,NA,2019-01-31
-"Southern Miss","Florida International",NA,NA,NA,NA,2019-01-31
-"Temple","Houston",NA,NA,NA,NA,2019-01-31
-"Fairfield","Manhattan",NA,NA,NA,NA,2019-01-31
-"Iona","Marist",NA,NA,NA,NA,2019-01-31
-"UTEP","Marshall",NA,NA,NA,NA,2019-01-31
-"Wofford","Mercer",NA,NA,NA,NA,2019-01-31
-"Siena","Monmouth",NA,NA,NA,NA,2019-01-31
-"Sacred Heart","Mount St. Mary's",NA,NA,NA,NA,2019-01-31
-"VMI","UNC Greensboro",NA,NA,NA,NA,2019-01-31
-"Towson","UNC Wilmington",NA,NA,NA,NA,2019-01-31
-"Youngstown State","Oakland",NA,NA,NA,NA,2019-01-31
-"North Texas","Old Dominion",NA,NA,NA,NA,2019-01-31
-"Purdue","Penn State",NA,NA,NA,NA,2019-01-31
-"St. Peter's","Rider",NA,NA,NA,NA,2019-01-31
-"Saint Francis (PA)","Robert Morris",NA,NA,NA,NA,2019-01-31
-"ETSU","Samford",NA,NA,NA,NA,2019-01-31
-"Austin Peay","Tennessee Tech",NA,NA,NA,NA,2019-01-31
-"Bryant","Wagner",NA,NA,NA,NA,2019-01-31
-"Drexel","William & Mary",NA,NA,NA,NA,2019-01-31
-"Southeast Missouri State","Belmont",NA,NA,NA,NA,2019-01-31
-"Western Carolina","Chattanooga",NA,NA,NA,NA,2019-01-31
-"Eastern Kentucky","Eastern Illinois",NA,NA,NA,NA,2019-01-31
-"Xavier","Georgetown",NA,NA,NA,NA,2019-01-31
-"Murray State","Jacksonville State",NA,NA,NA,NA,2019-01-31
-"South Dakota State","Oral Roberts",NA,NA,NA,NA,2019-01-31
-"Morehead State","SIU-Edwardsville",NA,NA,NA,NA,2019-01-31
-"UT-Martin","Tennessee State",NA,NA,NA,NA,2019-01-31
-"Chicago State","Texas-Rio Grande Valley",NA,NA,NA,NA,2019-01-31
-"North Dakota","Western Illinois",NA,NA,NA,NA,2019-01-31
-"UTSA","Western Kentucky",NA,NA,NA,NA,2019-01-31
-"Arizona","Arizona State",NA,NA,NA,NA,2019-01-31
-"UConn","UCF",NA,NA,NA,NA,2019-01-31
-"Oregon State","Colorado",NA,NA,NA,NA,2019-01-31
-"Sacramento State","Idaho State",NA,NA,NA,NA,2019-01-31
-"UMKC","New Mexico State",NA,NA,NA,NA,2019-01-31
-"Oregon","Utah",NA,NA,NA,NA,2019-01-31
-"Portland State","Weber State",NA,NA,NA,NA,2019-01-31
-"Cal Poly","UC-Riverside",NA,NA,NA,NA,2019-01-31
-"Pacific","Loyola Marymount",NA,NA,NA,NA,2019-01-31
-"Pepperdine","Portland",NA,NA,NA,NA,2019-01-31
-"Gonzaga","BYU",NA,NA,NA,NA,2019-01-31
-"UC-Irvine","UCSB",NA,NA,NA,NA,2019-01-31
-"Long Beach State","Hawaii",NA,NA,NA,NA,2019-01-31
-"Penn","Cornell",NA,NA,NA,NA,2019-02-01
-"Quinnipiac","Canisius",NA,NA,NA,NA,2019-02-01
-"Princeton","Columbia",NA,NA,NA,NA,2019-02-01
-"Brown","Dartmouth",NA,NA,NA,NA,2019-02-01
-"Yale","Harvard",NA,NA,NA,NA,2019-02-01
-"Michigan","Iowa",NA,NA,NA,NA,2019-02-01
-"Northern Kentucky","IUPUI",NA,NA,NA,NA,2019-02-01
-"Davidson","St. Bonaventure",NA,NA,NA,NA,2019-02-01
-"Buffalo","Bowling Green State",NA,NA,NA,NA,2019-02-01
-"Milwaukee","Green Bay",NA,NA,NA,NA,2019-02-01
-"Wright State","UIC",NA,NA,NA,NA,2019-02-01
-"Maryland","Wisconsin",NA,NA,NA,NA,2019-02-01
-"Seton Hall","Butler",NA,NA,NA,NA,2019-02-02
-"St. John's (NY)","Duke",NA,NA,NA,NA,2019-02-02
-"Miami (OH)","Eastern Michigan",NA,NA,NA,NA,2019-02-02
-"Kentucky","Florida",NA,NA,NA,NA,2019-02-02
-"Georgia Tech","Florida State",NA,NA,NA,NA,2019-02-02
-"UNC","Louisville",NA,NA,NA,NA,2019-02-02
-"Indiana","Michigan State",NA,NA,NA,NA,2019-02-02
-"Virginia Tech","NC State",NA,NA,NA,NA,2019-02-02
-"Rutgers","Ohio State",NA,NA,NA,NA,2019-02-02
-"Memphis","South Florida",NA,NA,NA,NA,2019-02-02
-"Oklahoma","West Virginia",NA,NA,NA,NA,2019-02-02
-"Lehigh","Army",NA,NA,NA,NA,2019-02-02
-"Wofford","Citadel",NA,NA,NA,NA,2019-02-02
-"Boston University","Colgate",NA,NA,NA,NA,2019-02-02
-"Youngstown State","Detroit",NA,NA,NA,NA,2019-02-02
-"South Carolina","Georgia",NA,NA,NA,NA,2019-02-02
-"Georgia Southern","Georgia State",NA,NA,NA,NA,2019-02-02
-"Siena","Iona",NA,NA,NA,NA,2019-02-02
-"Holy Cross","American",NA,NA,NA,NA,2019-02-02
-"Louisiana-Monroe","Appalachian State",NA,NA,NA,NA,2019-02-02
-"Kent State","Ball State",NA,NA,NA,NA,2019-02-02
-"Notre Dame","Boston College",NA,NA,NA,NA,2019-02-02
-"Southern Illinois","Bradley",NA,NA,NA,NA,2019-02-02
-"Longwood","Campbell",NA,NA,NA,NA,2019-02-02
-"Louisiana","Coastal Carolina",NA,NA,NA,NA,2019-02-02
-"Duquesne","Dayton",NA,NA,NA,NA,2019-02-02
-"Providence","DePaul",NA,NA,NA,NA,2019-02-02
-"Valparaiso","Evansville",NA,NA,NA,NA,2019-02-02
-"Nebraska","Illinois",NA,NA,NA,NA,2019-02-02
-"Drake","Indiana State",NA,NA,NA,NA,2019-02-02
-"Texas","Iowa State",NA,NA,NA,NA,2019-02-02
-"Bucknell","Lafayette",NA,NA,NA,NA,2019-02-02
-"Rider","Monmouth",NA,NA,NA,NA,2019-02-02
-"Miami (FL)","Virginia",NA,NA,NA,NA,2019-02-02
-"Tulsa","Wichita State",NA,NA,NA,NA,2019-02-02
-"Radford","Winthrop",NA,NA,NA,NA,2019-02-02
-"Bryant","Central Connecticut",NA,NA,NA,NA,2019-02-02
-"UNC Asheville","Gardner-Webb",NA,NA,NA,NA,2019-02-02
-"Mississippi State","Ole Miss",NA,NA,NA,NA,2019-02-02
-"Toledo","Northern Illinois",NA,NA,NA,NA,2019-02-02
-"Cleveland State","Oakland",NA,NA,NA,NA,2019-02-02
-"Akron","Ohio",NA,NA,NA,NA,2019-02-02
-"St. Francis (NY)","Sacred Heart",NA,NA,NA,NA,2019-02-02
-"Western Carolina","Samford",NA,NA,NA,NA,2019-02-02
-"Colorado State","Air Force",NA,NA,NA,NA,2019-02-02
-"North Carolina Central","Bethune-Cookman",NA,NA,NA,NA,2019-02-02
-"Western Michigan","Central Michigan",NA,NA,NA,NA,2019-02-02
-"North Texas","Charlotte",NA,NA,NA,NA,2019-02-02
-"ETSU","Chattanooga",NA,NA,NA,NA,2019-02-02
-"Towson","College of Charleston",NA,NA,NA,NA,2019-02-02
-"Morgan State","Coppin State",NA,NA,NA,NA,2019-02-02
-"Savannah State","Delaware State",NA,NA,NA,NA,2019-02-02
-"Morehead State","Eastern Illinois",NA,NA,NA,NA,2019-02-02
-"Robert Morris","Fairleigh Dickinson",NA,NA,NA,NA,2019-02-02
-"Southern Miss","Florida Atlantic",NA,NA,NA,NA,2019-02-02
-"Norfolk State","Howard",NA,NA,NA,NA,2019-02-02
-"Texas Tech","Kansas",NA,NA,NA,NA,2019-02-02
-"South Carolina State","Maryland-Eastern Shore",NA,NA,NA,NA,2019-02-02
-"Lamar","McNeese State",NA,NA,NA,NA,2019-02-02
-"Furman","Mercer",NA,NA,NA,NA,2019-02-02
-"Saint Francis (PA)","Mount St. Mary's",NA,NA,NA,NA,2019-02-02
-"Hofstra","Northeastern",NA,NA,NA,NA,2019-02-02
-"Saint Louis","Rhode Island",NA,NA,NA,NA,2019-02-02
-"UMass","St. Joseph's",NA,NA,NA,NA,2019-02-02
-"San Francisco","Saint Mary's",NA,NA,NA,NA,2019-02-02
-"Charleston Southern","USC Upstate",NA,NA,NA,NA,2019-02-02
-"Kennesaw State","Stetson",NA,NA,NA,NA,2019-02-02
-"UNLV","Utah State",NA,NA,NA,NA,2019-02-02
-"LIU-Brooklyn","Wagner",NA,NA,NA,NA,2019-02-02
-"UCLA","Washington",NA,NA,NA,NA,2019-02-02
-"Delaware","William & Mary",NA,NA,NA,NA,2019-02-02
-"Northwestern State","Central Arkansas",NA,NA,NA,NA,2019-02-02
-"Southern Utah","Eastern Washington",NA,NA,NA,NA,2019-02-02
-"Mississippi Valley State","Jackson State",NA,NA,NA,NA,2019-02-02
-"Austin Peay","Jacksonville State",NA,NA,NA,NA,2019-02-02
-"North Alabama","Lipscomb",NA,NA,NA,NA,2019-02-02
-"Vermont","UMass-Lowell",NA,NA,NA,NA,2019-02-02
-"Incarnate Word","New Orleans",NA,NA,NA,NA,2019-02-02
-"Nicholls State","Southeastern Louisiana",NA,NA,NA,NA,2019-02-02
-"Alabama State","Texas Southern",NA,NA,NA,NA,2019-02-02
-"Texas-Arlington","Texas State",NA,NA,NA,NA,2019-02-02
-"Oregon State","Utah",NA,NA,NA,NA,2019-02-02
-"Southern","Alcorn State",NA,NA,NA,NA,2019-02-02
-"Arkansas State","Little Rock",NA,NA,NA,NA,2019-02-02
-"UT-Martin","Belmont",NA,NA,NA,NA,2019-02-02
-"North Carolina A&T","Florida A&M",NA,NA,NA,NA,2019-02-02
-"Arkansas-Pine Bluff","Grambling",NA,NA,NA,NA,2019-02-02
-"Arkansas","LSU",NA,NA,NA,NA,2019-02-02
-"Boise State","Nevada",NA,NA,NA,NA,2019-02-02
-"Chicago State","New Mexico State",NA,NA,NA,NA,2019-02-02
-"Kansas State","Oklahoma State",NA,NA,NA,NA,2019-02-02
-"Syracuse","Pitt",NA,NA,NA,NA,2019-02-02
-"Alabama A&M","Prairie View",NA,NA,NA,NA,2019-02-02
-"La Salle","Richmond",NA,NA,NA,NA,2019-02-02
-"Troy","South Alabama",NA,NA,NA,NA,2019-02-02
-"Temple","Tulane",NA,NA,NA,NA,2019-02-02
-"George Mason","VCU",NA,NA,NA,NA,2019-02-02
-"Binghamton","Albany (NY)",NA,NA,NA,NA,2019-02-02
-"Princeton","Cornell",NA,NA,NA,NA,2019-02-02
-"Yale","Dartmouth",NA,NA,NA,NA,2019-02-02
-"Drexel","Elon",NA,NA,NA,NA,2019-02-02
-"Jacksonville","Florida Gulf Coast",NA,NA,NA,NA,2019-02-02
-"Louisiana Tech","Florida International",NA,NA,NA,NA,2019-02-02
-"Brown","Harvard",NA,NA,NA,NA,2019-02-02
-"Hampton","High Point",NA,NA,NA,NA,2019-02-02
-"NJIT","Liberty",NA,NA,NA,NA,2019-02-02
-"St. Peter's","Manhattan",NA,NA,NA,NA,2019-02-02
-"Fairfield","Marist",NA,NA,NA,NA,2019-02-02
-"UTSA","Marshall",NA,NA,NA,NA,2019-02-02
-"Loyola (MD)","Navy",NA,NA,NA,NA,2019-02-02
-"James Madison","UNC Wilmington",NA,NA,NA,NA,2019-02-02
-"Rice","Old Dominion",NA,NA,NA,NA,2019-02-02
-"Hartford","Stony Brook",NA,NA,NA,NA,2019-02-02
-"USC","Washington State",NA,NA,NA,NA,2019-02-02
-"UTEP","Western Kentucky",NA,NA,NA,NA,2019-02-02
-"Middle Tennessee","Alabama-Birmingham",NA,NA,NA,NA,2019-02-02
-"Alabama","Auburn",NA,NA,NA,NA,2019-02-02
-"TCU","Baylor",NA,NA,NA,NA,2019-02-02
-"SMU","Cincinnati",NA,NA,NA,NA,2019-02-02
-"Penn","Columbia",NA,NA,NA,NA,2019-02-02
-"San Diego","Gonzaga",NA,NA,NA,NA,2019-02-02
-"Texas A&M-Corpus Christi","Houston Baptist",NA,NA,NA,NA,2019-02-02
-"Vanderbilt","Missouri",NA,NA,NA,NA,2019-02-02
-"Missouri State","Northern Iowa",NA,NA,NA,NA,2019-02-02
-"Purdue-Fort Wayne","Oral Roberts",NA,NA,NA,NA,2019-02-02
-"Stephen F. Austin","Sam Houston State",NA,NA,NA,NA,2019-02-02
-"Eastern Kentucky","SIU-Edwardsville",NA,NA,NA,NA,2019-02-02
-"Southeast Missouri State","Tennessee State",NA,NA,NA,NA,2019-02-02
-"Murray State","Tennessee Tech",NA,NA,NA,NA,2019-02-02
-"Tennessee","Texas A&M",NA,NA,NA,NA,2019-02-02
-"UMKC","Texas-Rio Grande Valley",NA,NA,NA,NA,2019-02-02
-"North Dakota State","Western Illinois",NA,NA,NA,NA,2019-02-02
-"Loyola Marymount","BYU",NA,NA,NA,NA,2019-02-02
-"UC-Davis","UC-Riverside",NA,NA,NA,NA,2019-02-02
-"Oregon","Colorado",NA,NA,NA,NA,2019-02-02
-"Portland State","Idaho State",NA,NA,NA,NA,2019-02-02
-"Montana","Montana State",NA,NA,NA,NA,2019-02-02
-"San Diego State","San Jose State",NA,NA,NA,NA,2019-02-02
-"Portland","Santa Clara",NA,NA,NA,NA,2019-02-02
-"Sacramento State","Weber State",NA,NA,NA,NA,2019-02-02
-"Grand Canyon","Cal State Bakersfield",NA,NA,NA,NA,2019-02-02
-"Cal Poly","Cal State Northridge",NA,NA,NA,NA,2019-02-02
-"New Mexico","Fresno State",NA,NA,NA,NA,2019-02-02
-"Northern Arizona","Idaho",NA,NA,NA,NA,2019-02-02
-"Loyola (IL)","Illinois State",NA,NA,NA,NA,2019-02-02
-"UC-Irvine","Long Beach State",NA,NA,NA,NA,2019-02-02
-"Pepperdine","Pacific",NA,NA,NA,NA,2019-02-02
-"California Baptist","Seattle",NA,NA,NA,NA,2019-02-02
-"UCSB","Hawaii",NA,NA,NA,NA,2019-02-02
-"Wake Forest","Clemson",NA,NA,NA,NA,2019-02-03
-"Minnesota","Purdue",NA,NA,NA,NA,2019-02-03
-"Georgetown","Villanova",NA,NA,NA,NA,2019-02-03
-"Xavier","Creighton",NA,NA,NA,NA,2019-02-03
-"Wright State","IUPUI",NA,NA,NA,NA,2019-02-03
-"New Hampshire","Maine",NA,NA,NA,NA,2019-02-03
-"North Dakota","Omaha",NA,NA,NA,NA,2019-02-03
-"East Carolina","UConn",NA,NA,NA,NA,2019-02-03
-"Quinnipiac","Niagara",NA,NA,NA,NA,2019-02-03
-"South Dakota State","Denver",NA,NA,NA,NA,2019-02-03
-"Stanford","California",NA,NA,NA,NA,2019-02-03
-"Northern Kentucky","UIC",NA,NA,NA,NA,2019-02-03
-"North Carolina A&T","Bethune-Cookman",NA,NA,NA,NA,2019-02-04
-"Marist","Canisius",NA,NA,NA,NA,2019-02-04
-"South Carolina State","Delaware State",NA,NA,NA,NA,2019-02-04
-"North Carolina Central","Florida A&M",NA,NA,NA,NA,2019-02-04
-"Colgate","Lehigh",NA,NA,NA,NA,2019-02-04
-"Savannah State","Maryland-Eastern Shore",NA,NA,NA,NA,2019-02-04
-"Fairfield","Siena",NA,NA,NA,NA,2019-02-04
-"Louisville","Virginia Tech",NA,NA,NA,NA,2019-02-04
-"Mississippi Valley State","Grambling",NA,NA,NA,NA,2019-02-04
-"Arkansas-Pine Bluff","Jackson State",NA,NA,NA,NA,2019-02-04
-"Penn State","Northwestern",NA,NA,NA,NA,2019-02-04
-"Alabama State","Prairie View",NA,NA,NA,NA,2019-02-04
-"Alabama A&M","Texas Southern",NA,NA,NA,NA,2019-02-04
-"Northern Arizona","Eastern Washington",NA,NA,NA,NA,2019-02-04
-"Montana State","Northern Colorado",NA,NA,NA,NA,2019-02-04
-"Iowa State","Oklahoma",NA,NA,NA,NA,2019-02-04
-"West Virginia","Texas Tech",NA,NA,NA,NA,2019-02-04
-"Southern Utah","Idaho",NA,NA,NA,NA,2019-02-04
+"Ohio","Northern Illinois",60,71,1,-11,2019-01-29
+"Tennessee","South Carolina",92,70,0,22,2019-01-29
+"Georgia","Arkansas",60,70,1,-10,2019-01-29
+"Ball State","Buffalo",59,83,1,-24,2019-01-29
+"Eastern Michigan","Central Michigan",82,86,1,-4,2019-01-29
+"UNC","Georgia Tech",77,54,0,23,2019-01-29
+"Lipscomb","Liberty",79,59,0,20,2019-01-29
+"Northwestern","Maryland",52,70,1,-18,2019-01-29
+"Toledo","Miami (OH)",66,63,0,3,2019-01-29
+"Virginia","NC State",66,65,0,1,2019-01-29
+"Kansas","Texas",63,73,1,-10,2019-01-29
+"Mississippi State","Alabama",79,83,1,-4,2019-01-29
+"St. Joseph's","Dayton",64,75,1,-11,2019-01-29
+"Wisconsin","Nebraska",62,51,0,11,2019-01-29
+"Missouri State","Valparaiso",55,54,0,1,2019-01-29
+"Pitt","Clemson",69,82,1,-13,2019-01-29
+"Boise State","Colorado State",70,68,0,2,2019-01-29
+"Ohio State","Michigan",49,65,1,-16,2019-01-29
+"Kentucky","Vanderbilt",87,52,0,35,2019-01-29
+"UC-Santa Cruz","Cal State Bakersfield",54,81,1,-27,2019-01-29
+"Nevada","UNLV",87,70,0,17,2019-01-29
+"Marquette","Butler",76,58,0,18,2019-01-30
+"Ole Miss","Florida",86,90,1,-4,2019-01-30
+"Holy Cross","Boston University",54,68,1,-14,2019-01-30
+"Navy","Bucknell",57,69,1,-12,2019-01-30
+"Presbyterian","Charleston Southern",84,85,1,-1,2019-01-30
+"Army","Colgate",56,76,1,-20,2019-01-30
+"Rhode Island","Duquesne",72,75,1,-3,2019-01-30
+"Bradley","Evansville",81,73,0,8,2019-01-30
+"High Point","Gardner-Webb",67,69,1,-2,2019-01-30
+"Fordham","George Washington",61,79,1,-18,2019-01-30
+"Binghamton","Hartford",60,86,1,-26,2019-01-30
+"West Virginia","Iowa State",68,93,1,-25,2019-01-30
+"South Dakota","Purdue-Fort Wayne",71,102,1,-31,2019-01-30
+"Stetson","Jacksonville",57,72,1,-15,2019-01-30
+"North Florida","Kennesaw State",64,81,1,-17,2019-01-30
+"UMass","La Salle",51,60,1,-9,2019-01-30
+"Hampton","Longwood",96,83,0,13,2019-01-30
+"Northern Iowa","Loyola (IL)",60,61,1,-1,2019-01-30
+"American","Loyola (MD)",74,68,0,6,2019-01-30
+"Stony Brook","UMBC",49,57,1,-8,2019-01-30
+"Maine","UMass-Lowell",78,59,0,19,2019-01-30
+"Virginia Tech","Miami (FL)",82,70,0,12,2019-01-30
+"Alabama-Birmingham","Middle Tennessee",65,71,1,-6,2019-01-30
+"Albany (NY)","New Hampshire",62,42,0,20,2019-01-30
+"Canisius","Niagara",70,78,1,-8,2019-01-30
+"Florida Gulf Coast","NJIT",54,66,1,-12,2019-01-30
+"USC Upstate","UNC Asheville",62,71,1,-9,2019-01-30
+"Campbell","Radford",68,67,0,1,2019-01-30
+"Indiana","Rutgers",58,66,1,-8,2019-01-30
+"Richmond","Saint Louis",84,81,0,3,2019-01-30
+"Providence","Seton Hall",63,65,1,-2,2019-01-30
+"Central Arkansas","Stephen F. Austin",99,105,1,-6,2019-01-30
+"Texas A&M-Corpus Christi","Abilene Christian",71,78,1,-7,2019-01-30
+"Missouri","Auburn",58,92,1,-34,2019-01-30
+"Syracuse","Boston College",77,71,0,6,2019-01-30
+"St. John's (NY)","Creighton",83,67,0,16,2019-01-30
+"Villanova","DePaul",86,74,0,12,2019-01-30
+"Illinois State","Drake",69,55,0,14,2019-01-30
+"Houston Baptist","Incarnate Word",96,92,0,4,2019-01-30
+"Lehigh","Lafayette",93,86,0,7,2019-01-30
+"Northwestern State","New Orleans",64,72,1,-8,2019-01-30
+"Lamar","Nicholls State",90,69,0,21,2019-01-30
+"Sam Houston State","Southeastern Louisiana",62,52,0,10,2019-01-30
+"Memphis","Tulsa",79,95,1,-16,2019-01-30
+"Louisville","Wake Forest",82,54,0,28,2019-01-30
+"Illinois","Minnesota",75,86,1,-11,2019-01-30
+"Indiana State","Southern Illinois",73,88,1,-15,2019-01-30
+"LSU","Texas A&M",72,57,0,15,2019-01-30
+"San Jose State","Utah State",73,103,1,-30,2019-01-30
+"California Baptist","Utah Valley",62,79,1,-17,2019-01-30
+"SMU","Wichita State",83,85,1,-2,2019-01-30
+"Fresno State","Wyoming",75,62,0,13,2019-01-30
+"Cal State Northridge","Cal State Fullerton",71,78,1,-7,2019-01-30
+"Air Force","San Diego State",51,66,1,-15,2019-01-30
+"UCLA","Washington State",87,67,0,20,2019-01-30
+"USC","Washington",62,75,1,-13,2019-01-30
+"LIU-Brooklyn","Fairleigh Dickinson",77,80,1,-3,2019-01-31
+"Louisiana","Appalachian State",77,104,1,-27,2019-01-31
+"St. Francis (NY)","Central Connecticut",72,78,1,-6,2019-01-31
+"Rice","Charlotte",65,61,0,4,2019-01-31
+"Furman","Citadel",71,61,0,10,2019-01-31
+"Louisiana-Monroe","Coastal Carolina",81,92,1,-11,2019-01-31
+"James Madison","College of Charleston",53,70,1,-17,2019-01-31
+"Cleveland State","Detroit",64,78,1,-14,2019-01-31
+"Tulane","East Carolina",65,66,1,-1,2019-01-31
+"Delaware","Elon",56,57,1,-1,2019-01-31
+"Louisiana Tech","Florida Atlantic",61,69,1,-8,2019-01-31
+"Southern Miss","Florida International",89,73,0,16,2019-01-31
+"Temple","Houston",66,73,1,-7,2019-01-31
+"Fairfield","Manhattan",49,62,1,-13,2019-01-31
+"Iona","Marist",74,78,1,-4,2019-01-31
+"UTEP","Marshall",86,91,1,-5,2019-01-31
+"Wofford","Mercer",76,67,0,9,2019-01-31
+"Siena","Monmouth",55,66,1,-11,2019-01-31
+"Sacred Heart","Mount St. Mary's",87,79,0,8,2019-01-31
+"VMI","UNC Greensboro",66,93,1,-27,2019-01-31
+"Towson","UNC Wilmington",77,76,0,1,2019-01-31
+"Youngstown State","Oakland",75,74,0,1,2019-01-31
+"North Texas","Old Dominion",61,72,1,-11,2019-01-31
+"Purdue","Penn State",99,90,0,9,2019-01-31
+"St. Peter's","Rider",51,59,1,-8,2019-01-31
+"Saint Francis (PA)","Robert Morris",76,73,0,3,2019-01-31
+"ETSU","Samford",74,66,0,8,2019-01-31
+"Austin Peay","Tennessee Tech",77,66,0,11,2019-01-31
+"Bryant","Wagner",71,64,0,7,2019-01-31
+"Drexel","William & Mary",69,75,1,-6,2019-01-31
+"Southeast Missouri State","Belmont",71,97,1,-26,2019-01-31
+"Western Carolina","Chattanooga",105,96,0,9,2019-01-31
+"Eastern Kentucky","Eastern Illinois",66,67,1,-1,2019-01-31
+"Xavier","Georgetown",73,80,1,-7,2019-01-31
+"Murray State","Jacksonville State",68,88,1,-20,2019-01-31
+"South Dakota State","Oral Roberts",86,80,0,6,2019-01-31
+"Morehead State","SIU-Edwardsville",76,83,1,-7,2019-01-31
+"UT-Martin","Tennessee State",67,68,1,-1,2019-01-31
+"Chicago State","Texas-Rio Grande Valley",46,77,1,-31,2019-01-31
+"UTSA","Western Kentucky",88,96,1,-8,2019-01-31
+"Arizona","Arizona State",88,95,1,-7,2019-01-31
+"UConn","UCF",67,73,1,-6,2019-01-31
+"Oregon State","Colorado",76,74,0,2,2019-01-31
+"Sacramento State","Idaho State",74,58,0,16,2019-01-31
+"UMKC","New Mexico State",54,70,1,-16,2019-01-31
+"Oregon","Utah",78,72,0,6,2019-01-31
+"Portland State","Weber State",76,75,0,1,2019-01-31
+"Cal Poly","UC-Riverside",71,45,0,26,2019-01-31
+"Pacific","Loyola Marymount",42,60,1,-18,2019-01-31
+"Pepperdine","Portland",83,58,0,25,2019-01-31
+"Gonzaga","BYU",93,63,0,30,2019-01-31
+"UC-Irvine","UCSB",66,62,0,4,2019-01-31
+"Long Beach State","Hawaii",57,74,1,-17,2019-01-31
+"Penn","Cornell",71,80,1,-9,2019-02-01
+"North Dakota","Western Illinois",74,73,0,1,2019-02-01
+"Quinnipiac","Canisius",70,75,1,-5,2019-02-01
+"Princeton","Columbia",55,43,0,12,2019-02-01
+"Brown","Dartmouth",60,58,0,2,2019-02-01
+"Yale","Harvard",49,65,1,-16,2019-02-01
+"Michigan","Iowa",59,74,1,-15,2019-02-01
+"Northern Kentucky","IUPUI",77,83,1,-6,2019-02-01
+"Davidson","St. Bonaventure",75,66,0,9,2019-02-01
+"Buffalo","Bowling Green State",88,92,1,-4,2019-02-01
+"Milwaukee","Green Bay",74,90,1,-16,2019-02-01
+"Wright State","UIC",53,67,1,-14,2019-02-01
+"Maryland","Wisconsin",61,69,1,-8,2019-02-01
+"Kent State","Ball State",83,80,0,3,2019-02-02
+"Seton Hall","Butler",68,70,1,-2,2019-02-02
+"St. John's (NY)","Duke",61,91,1,-30,2019-02-02
+"Miami (OH)","Eastern Michigan",59,48,0,11,2019-02-02
+"Georgia Tech","Florida State",49,59,1,-10,2019-02-02
+"Virginia Tech","NC State",47,24,0,23,2019-02-02
+"Rutgers","Ohio State",62,76,1,-14,2019-02-02
+"Memphis","South Florida",78,84,1,-6,2019-02-02
+"Oklahoma","West Virginia",71,79,1,-8,2019-02-02
+"Lehigh","Army",75,70,0,5,2019-02-02
+"Wofford","Citadel",99,61,0,38,2019-02-02
+"Boston University","Colgate",76,68,0,8,2019-02-02
+"Youngstown State","Detroit",72,70,0,2,2019-02-02
+"South Carolina","Georgia",86,80,0,6,2019-02-02
+"Georgia Southern","Georgia State",72,81,1,-9,2019-02-02
+"Siena","Iona",56,54,0,2,2019-02-02
+"Holy Cross","American",49,66,1,-17,2019-02-02
+"Louisiana-Monroe","Appalachian State",84,85,1,-1,2019-02-02
+"Notre Dame","Boston College",79,73,0,6,2019-02-02
+"Southern Illinois","Bradley",72,68,0,4,2019-02-02
+"Longwood","Campbell",62,83,1,-21,2019-02-02
+"Louisiana","Coastal Carolina",79,96,1,-17,2019-02-02
+"Duquesne","Dayton",64,68,1,-4,2019-02-02
+"Providence","DePaul",55,67,1,-12,2019-02-02
+"Valparaiso","Evansville",53,64,1,-11,2019-02-02
+"Nebraska","Illinois",64,71,1,-7,2019-02-02
+"Drake","Indiana State",68,62,0,6,2019-02-02
+"Texas","Iowa State",60,65,1,-5,2019-02-02
+"Bucknell","Lafayette",94,66,0,28,2019-02-02
+"UNC","Louisville",79,69,0,10,2019-02-02
+"Rider","Monmouth",71,75,1,-4,2019-02-02
+"Loyola (MD)","Navy",68,71,1,-3,2019-02-02
+"Miami (FL)","Virginia",46,56,1,-10,2019-02-02
+"Tulsa","Wichita State",68,79,1,-11,2019-02-02
+"Radford","Winthrop",80,61,0,19,2019-02-02
+"Bryant","Central Connecticut",59,64,1,-5,2019-02-02
+"UNC Asheville","Gardner-Webb",81,82,1,-1,2019-02-02
+"Mississippi State","Ole Miss",81,75,0,6,2019-02-02
+"Toledo","Northern Illinois",69,55,0,14,2019-02-02
+"Cleveland State","Oakland",68,83,1,-15,2019-02-02
+"Akron","Ohio",65,53,0,12,2019-02-02
+"St. Francis (NY)","Sacred Heart",62,71,1,-9,2019-02-02
+"Western Carolina","Samford",81,92,1,-11,2019-02-02
+"Colorado State","Air Force",85,53,0,32,2019-02-02
+"North Carolina Central","Bethune-Cookman",64,74,1,-10,2019-02-02
+"Western Michigan","Central Michigan",64,85,1,-21,2019-02-02
+"North Texas","Charlotte",73,66,0,7,2019-02-02
+"ETSU","Chattanooga",77,64,0,13,2019-02-02
+"Towson","College of Charleston",53,54,1,-1,2019-02-02
+"Morgan State","Coppin State",71,73,1,-2,2019-02-02
+"Savannah State","Delaware State",76,73,0,3,2019-02-02
+"Morehead State","Eastern Illinois",84,78,0,6,2019-02-02
+"Robert Morris","Fairleigh Dickinson",94,97,1,-3,2019-02-02
+"Kentucky","Florida",65,54,0,11,2019-02-02
+"North Carolina A&T","Florida A&M",39,63,1,-24,2019-02-02
+"Southern Miss","Florida Atlantic",74,72,0,2,2019-02-02
+"Norfolk State","Howard",80,78,0,2,2019-02-02
+"Texas Tech","Kansas",63,79,1,-16,2019-02-02
+"South Carolina State","Maryland-Eastern Shore",61,63,1,-2,2019-02-02
+"Lamar","McNeese State",84,75,0,9,2019-02-02
+"Furman","Mercer",74,63,0,11,2019-02-02
+"Saint Francis (PA)","Mount St. Mary's",72,63,0,9,2019-02-02
+"Hofstra","Northeastern",61,75,1,-14,2019-02-02
+"Saint Louis","Rhode Island",54,65,1,-11,2019-02-02
+"UMass","St. Joseph's",62,64,1,-2,2019-02-02
+"San Francisco","Saint Mary's",80,86,1,-6,2019-02-02
+"Charleston Southern","USC Upstate",90,71,0,19,2019-02-02
+"Kennesaw State","Stetson",75,92,1,-17,2019-02-02
+"UNLV","Utah State",65,82,1,-17,2019-02-02
+"LIU-Brooklyn","Wagner",59,71,1,-12,2019-02-02
+"UCLA","Washington",55,69,1,-14,2019-02-02
+"Delaware","William & Mary",63,84,1,-21,2019-02-02
+"Northwestern State","Central Arkansas",80,75,0,5,2019-02-02
+"Southern Utah","Eastern Washington",79,82,1,-3,2019-02-02
+"Mississippi Valley State","Jackson State",57,61,1,-4,2019-02-02
+"Austin Peay","Jacksonville State",74,71,0,3,2019-02-02
+"North Alabama","Lipscomb",80,102,1,-22,2019-02-02
+"Vermont","UMass-Lowell",74,65,0,9,2019-02-02
+"Incarnate Word","New Orleans",72,89,1,-17,2019-02-02
+"Nicholls State","Southeastern Louisiana",70,91,1,-21,2019-02-02
+"Texas-Arlington","Texas State",84,77,0,7,2019-02-02
+"Oregon State","Utah",81,72,0,9,2019-02-02
+"Southern","Alcorn State",64,76,1,-12,2019-02-02
+"Arkansas State","Little Rock",84,83,0,1,2019-02-02
+"UT-Martin","Belmont",67,82,1,-15,2019-02-02
+"Arkansas-Pine Bluff","Grambling",55,79,1,-24,2019-02-02
+"Arkansas","LSU",90,89,0,1,2019-02-02
+"Indiana","Michigan State",79,75,0,4,2019-02-02
+"Boise State","Nevada",73,93,1,-20,2019-02-02
+"Chicago State","New Mexico State",39,83,1,-44,2019-02-02
+"Kansas State","Oklahoma State",75,57,0,18,2019-02-02
+"Syracuse","Pitt",65,56,0,9,2019-02-02
+"Alabama A&M","Prairie View",65,81,1,-16,2019-02-02
+"La Salle","Richmond",66,58,0,8,2019-02-02
+"Troy","South Alabama",75,81,1,-6,2019-02-02
+"Temple","Tulane",75,67,0,8,2019-02-02
+"George Mason","VCU",63,79,1,-16,2019-02-02
+"Binghamton","Albany (NY)",50,64,1,-14,2019-02-02
+"Princeton","Cornell",70,61,0,9,2019-02-02
+"Yale","Dartmouth",89,68,0,21,2019-02-02
+"Drexel","Elon",67,63,0,4,2019-02-02
+"Jacksonville","Florida Gulf Coast",60,73,1,-13,2019-02-02
+"Louisiana Tech","Florida International",69,75,1,-6,2019-02-02
+"Brown","Harvard",47,68,1,-21,2019-02-02
+"Hampton","High Point",69,85,1,-16,2019-02-02
+"NJIT","Liberty",57,77,1,-20,2019-02-02
+"St. Peter's","Manhattan",50,64,1,-14,2019-02-02
+"Fairfield","Marist",57,52,0,5,2019-02-02
+"UTSA","Marshall",116,106,0,10,2019-02-02
+"James Madison","UNC Wilmington",104,95,0,9,2019-02-02
+"Rice","Old Dominion",76,80,1,-4,2019-02-02
+"Hartford","Stony Brook",77,86,1,-9,2019-02-02
+"USC","Washington State",93,84,0,9,2019-02-02
+"UTEP","Western Kentucky",59,76,1,-17,2019-02-02
+"Middle Tennessee","Alabama-Birmingham",79,78,0,1,2019-02-02
+"Alabama","Auburn",63,84,1,-21,2019-02-02
+"TCU","Baylor",64,90,1,-26,2019-02-02
+"SMU","Cincinnati",68,73,1,-5,2019-02-02
+"Penn","Columbia",72,70,0,2,2019-02-02
+"San Diego","Gonzaga",69,85,1,-16,2019-02-02
+"Texas A&M-Corpus Christi","Houston Baptist",72,73,1,-1,2019-02-02
+"Vanderbilt","Missouri",67,77,1,-10,2019-02-02
+"Missouri State","Northern Iowa",59,64,1,-5,2019-02-02
+"Purdue-Fort Wayne","Oral Roberts",82,81,0,1,2019-02-02
+"Stephen F. Austin","Sam Houston State",72,94,1,-22,2019-02-02
+"Eastern Kentucky","SIU-Edwardsville",82,88,1,-6,2019-02-02
+"Southeast Missouri State","Tennessee State",50,79,1,-29,2019-02-02
+"Murray State","Tennessee Tech",67,63,0,4,2019-02-02
+"Tennessee","Texas A&M",93,76,0,17,2019-02-02
+"UMKC","Texas-Rio Grande Valley",63,75,1,-12,2019-02-02
+"Alabama State","Texas Southern",59,83,1,-24,2019-02-02
+"North Dakota State","Western Illinois",78,76,0,2,2019-02-02
+"Loyola Marymount","BYU",49,67,1,-18,2019-02-02
+"UC-Davis","UC-Riverside",84,71,0,13,2019-02-02
+"Oregon","Colorado",51,73,1,-22,2019-02-02
+"Portland State","Idaho State",67,69,1,-2,2019-02-02
+"Montana","Montana State",83,78,0,5,2019-02-02
+"San Diego State","San Jose State",67,56,0,11,2019-02-02
+"Portland","Santa Clara",63,69,1,-6,2019-02-02
+"Sacramento State","Weber State",65,75,1,-10,2019-02-02
+"Grand Canyon","Cal State Bakersfield",72,59,0,13,2019-02-02
+"Cal Poly","Cal State Northridge",65,83,1,-18,2019-02-02
+"New Mexico","Fresno State",70,82,1,-12,2019-02-02
+"Northern Arizona","Idaho",86,73,0,13,2019-02-02
+"Loyola (IL)","Illinois State",57,65,1,-8,2019-02-02
+"UC-Irvine","Long Beach State",82,80,0,2,2019-02-02
+"Pepperdine","Pacific",59,66,1,-7,2019-02-02
+"California Baptist","Seattle",75,64,0,11,2019-02-02
+"UCSB","Hawaii",75,54,0,21,2019-02-02
+"Wake Forest","Clemson",37,64,1,-27,2019-02-03
+"Minnesota","Purdue",63,73,1,-10,2019-02-03
+"Georgetown","Villanova",65,77,1,-12,2019-02-03
+"Xavier","Creighton",54,76,1,-22,2019-02-03
+"Wright State","IUPUI",79,74,0,5,2019-02-03
+"New Hampshire","Maine",53,62,1,-9,2019-02-03
+"North Dakota","Omaha",72,90,1,-18,2019-02-03
+"East Carolina","UConn",52,76,1,-24,2019-02-03
+"Quinnipiac","Niagara",84,73,0,11,2019-02-03
+"South Dakota State","Denver",92,82,0,10,2019-02-03
+"Stanford","California",84,81,0,3,2019-02-03
+"Northern Kentucky","UIC",67,69,1,-2,2019-02-03
+"North Carolina A&T","Bethune-Cookman",53,69,1,-16,2019-02-04
+"Marist","Canisius",78,71,0,7,2019-02-04
+"South Carolina State","Delaware State",68,70,1,-2,2019-02-04
+"North Carolina Central","Florida A&M",57,73,1,-16,2019-02-04
+"Colgate","Lehigh",84,62,0,22,2019-02-04
+"Savannah State","Maryland-Eastern Shore",68,63,0,5,2019-02-04
+"Fairfield","Siena",50,61,1,-11,2019-02-04
+"Louisville","Virginia Tech",72,64,0,8,2019-02-04
+"Arkansas-Pine Bluff","Jackson State",52,65,1,-13,2019-02-04
+"Penn State","Northwestern",59,52,0,7,2019-02-04
+"Alabama State","Prairie View",67,69,1,-2,2019-02-04
+"Alabama A&M","Texas Southern",74,84,1,-10,2019-02-04
+"Northern Arizona","Eastern Washington",64,82,1,-18,2019-02-04
+"Mississippi Valley State","Grambling",57,79,1,-22,2019-02-04
+"Montana State","Northern Colorado",69,66,0,3,2019-02-04
+"Iowa State","Oklahoma",75,74,0,1,2019-02-04
+"West Virginia","Texas Tech",50,81,1,-31,2019-02-04
+"Southern Utah","Idaho",75,64,0,11,2019-02-04
 "Boston College","Duke",NA,NA,NA,NA,2019-02-05
 "Michigan State","Illinois",NA,NA,NA,NA,2019-02-05
 "Miami (OH)","Kent State",NA,NA,NA,NA,2019-02-05

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549118302755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3397117E",
+    "lastKnownWriteTime" : 1549292195,
+    "last_content_update" : 1549292195327,
+    "path" : "~/Desktop/data_projects/college_basketball_predictions/src/update_data_master.R",
+    "project_path" : "src/update_data_master.R",
+    "properties" : {
+        "cursorPosition" : "1,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

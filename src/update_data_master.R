@@ -50,3 +50,6 @@ write.csv(model_data, file = here('data/model_data.csv'),
 
 write.csv(newdf, file = here('data/season_data2019.csv'), 
           row.names = F)
+
+# Clean up
+rm(list = ls())

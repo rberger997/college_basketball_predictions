@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549118678153.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "449430A4",
+    "lastKnownWriteTime" : 7308604912546349056,
+    "last_content_update" : 1549118678153,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CBD9AD52",
+        "caption" : "season1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=season1&cache_key=CBD9AD52",
+        "displayedObservations" : 3388,
+        "environment" : "",
+        "object" : "season1",
+        "preview" : 0,
+        "totalObservations" : 3388,
+        "variables" : 53
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

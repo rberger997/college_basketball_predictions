@@ -5,10 +5,6 @@ library(here)
 library(magrittr)
 model_data <- read.csv(here('data/past_seasons/model_data_2014_2018.csv'))
 
-# Filter out the first couple weeks of data (let Torvik ratings stabilize)
-model_data$Date <- as.Date(model_data$Date)
-#model_data <- dplyr::filter(model_data, Date > '2018-11-20')
-
 
 str(model_data)
 colnames(model_data)
@@ -171,15 +167,3 @@ season$pred_correct <- ifelse(season$pred_Home_w == season$Home_w, 1, 0)
 table(season$pred_correct)
 prop.table(table(season$pred_correct))
 
-
-# Predict todays games
-todays_games <- filter(model_data, Date == Sys.Date())
-todays_games$pred_Home_w <- predict(fit1, 
-                                    newdata = todays_games, 
-                                    type = 'response') %>% 
-  round(., 2)
-
-todays_games <- todays_games[,c(1:7,49)] %>% 
-  mutate(Rounded_pred = ifelse(pred_Home_w >= 0.5, 1, 0))
-
-prop.table(table(todays_games$Rounded_pred == todays_games$Home_w))

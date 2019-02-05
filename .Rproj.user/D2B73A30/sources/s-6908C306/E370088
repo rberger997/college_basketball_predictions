@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549050234960.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E370088",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1549050234960,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AACDD164",
+        "caption" : "todays_games",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=todays_games&cache_key=AACDD164",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "object" : "todays_games",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 52
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
