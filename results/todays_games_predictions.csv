@@ -1,25 +1,16 @@
 "Date","Road","pred_Road","Home","pred_Home","pred_winner","confidence","pred_margin","pred_total"
-"2019-02-05","Boston College",64,"Duke",82,"Duke",0.9443,-18,146
-"2019-02-05","Michigan State",75,"Illinois",68,"Michigan State",0.738,7,143
-"2019-02-05","Miami (OH)",72,"Kent State",76,"Kent State",0.656,-4,148
-"2019-02-05","South Carolina",66,"Kentucky",78,"Kentucky",0.8742,-13,144
-"2019-02-05","St. Joseph's",71,"La Salle",71,"La Salle",0.5057,0,142
-"2019-02-05","Stetson",64,"Liberty",84,"Liberty",0.9565,-20,147
-"2019-02-05","Drake",70,"Loyola (IL)",67,"Drake",0.5962,3,137
-"2019-02-05","Rider",70,"Manhattan",64,"Rider",0.7575,7,134
-"2019-02-05","Akron",66,"Toledo",71,"Toledo",0.6874,-5,137
-"2019-02-05","Pitt",70,"Wake Forest",68,"Pitt",0.5731,2,139
-"2019-02-05","Bowling Green State",71,"Western Michigan",69,"Bowling Green State",0.5887,2,140
-"2019-02-05","Valparaiso",69,"Illinois State",75,"Illinois State",0.7291,-6,144
-"2019-02-05","St. John's (NY)",71,"Marquette",75,"Marquette",0.666,-4,146
-"2019-02-05","NC State",66,"UNC",77,"UNC",0.8365,-11,143
-"2019-02-05","Ball State",72,"Northern Illinois",72,"Northern Illinois",0.5255,-1,144
-"2019-02-05","Michigan",74,"Rutgers",63,"Michigan",0.8518,11,137
-"2019-02-05","Florida State",69,"Syracuse",70,"Syracuse",0.5378,-1,139
-"2019-02-05","Vanderbilt",66,"Arkansas",74,"Arkansas",0.7954,-9,140
-"2019-02-05","Florida",68,"Auburn",74,"Auburn",0.7368,-7,142
-"2019-02-05","Kansas",68,"Kansas State",68,"Kansas State",0.5108,0,135
-"2019-02-05","Dayton",68,"Saint Louis",70,"Saint Louis",0.566,-2,137
-"2019-02-05","Missouri",66,"Tennessee",82,"Tennessee",0.918,-16,147
-"2019-02-05","Utah State",68,"Fresno State",68,"Fresno State",0.5287,-1,136
-"2019-02-05","San Diego State",74,"New Mexico",74,"San Diego State",0.5026,0,148
+"2019-02-11","Howard",70,"Bethune-Cookman",75,"Bethune-Cookman",0.6945,-5,145
+"2019-02-11","Lehigh",72,"Bucknell",79,"Bucknell",0.7502,-7,151
+"2019-02-11","Norfolk State",68,"Florida A&M",72,"Florida A&M",0.6627,-4,141
+"2019-02-11","Virginia",74,"UNC",72,"Virginia",0.5662,2,145
+"2019-02-11","Maryland-Eastern Shore",64,"North Carolina A&T",78,"North Carolina A&T",0.9025,-14,142
+"2019-02-11","Delaware State",61,"North Carolina Central",75,"North Carolina Central",0.8986,-14,136
+"2019-02-11","Coppin State",64,"South Carolina State",70,"South Carolina State",0.7339,-6,133
+"2019-02-11","Arkansas-Pine Bluff",68,"Alabama A&M",72,"Alabama A&M",0.6092,-3,140
+"2019-02-11","Mississippi Valley State",68,"Alabama State",75,"Alabama State",0.7603,-7,143
+"2019-02-11","Grambling",68,"Alcorn State",64,"Grambling",0.6349,4,133
+"2019-02-11","Morgan State",76,"Savannah State",66,"Morgan State",0.7955,9,142
+"2019-02-11","Jackson State",66,"Southern",72,"Southern",0.6769,-5,138
+"2019-02-11","Oklahoma",68,"Baylor",74,"Baylor",0.7056,-6,142
+"2019-02-11","Kansas",70,"TCU",72,"TCU",0.5684,-2,143
+"2019-02-11","Portland State",66,"Sacramento State",69,"Sacramento State",0.6226,-3,135
